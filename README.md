@@ -5,8 +5,8 @@ An implemetation for the AES algorithm including both encryption and decryption,
 Neither SW nor HW dependencies, it is completely reusable and portable
 
 # **INSTALLATION**
- 1- clone the repository.
- 2- include the public header in the project.
+ 1- clone the repository.\
+ 2- include the public header in the project.\
 
 # **USAGE**
 1- edit the configuration preprocessors in the public header to suit the project need
