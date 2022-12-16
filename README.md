@@ -1,4 +1,4 @@
-# ** Portable AES Library **
+# **Portable AES Library**
 this is an implemetation for the AES algorithm including both encryption and decryption, in the three modes ECB, CBC, and CTR, it supports AES128, AES192, and AES256.
 
 # ** DEPENDENCIES **
